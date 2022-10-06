@@ -38,3 +38,5 @@ Folder structure https://medium.com/the-andela-way/how-to-structure-a-react-nati
 Adding redux to expo app https://negativeepsilon.com/en/posts/expo-react-redux/
 
 Expo app add permissions in app.js https://gist.github.com/warlock/5db76a64d56d4254c280344e40b77337
+
+Good tutorial of import / export / aliases https://medium.com/@akshit5230/imports-exports-react-native-with-typescript-59e6460b0baa
